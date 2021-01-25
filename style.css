@@ -50,4 +50,88 @@ nav #social a:hover {
 .logo:hover {
   font-size: 45px !important;
 }
+
+#banner .slick-prev {
+  left: 50px;
+  z-index: 2;
+}
+
+#banner .slick-next {
+  right: 50px;
+  z-index: 2;
+}
+
+#banner .slick-dots {
+  bottom: 50px;
+  z-index: 2;
+}
+
+.banner1 {
+  background-image: url(./photo/banner1.jpg);
+  text-align: center;
+  color: white;
+  height: 100vh;
+}
+
+.banner1:focus {
+  outline: none;
+}
+
+.banner1 h1 {
+  padding: 300px 0 100px;
+  font-size: 60px;
+  letter-spacing: 20px;
+}
+
+.banner1 h2 {
+  font-size: 24px;
+}
+
+.banner2 {
+  background-image: url(./photo/banner2.jpg);
+  text-align: center;
+  color: white;
+  height: 100vh;
+}
+
+.banner2:focus {
+  outline: none;
+}
+
+.banner2 h1 {
+  padding: 300px 0 100px;
+  font-size: 60px;
+  letter-spacing: 20px;
+}
+
+.banner2 h2 {
+  font-size: 24px;
+}
+
+.banner3 {
+  background-image: url(./photo/banner3.jpg);
+  text-align: center;
+  color: white;
+  height: 100vh;
+}
+
+.banner3:focus {
+  outline: none;
+}
+
+.banner3 h1 {
+  padding: 300px 0 100px;
+  font-size: 60px;
+  letter-spacing: 20px;
+}
+
+.banner3 h2 {
+  font-size: 24px;
+}
+
+#news h1 {
+  text-align: center;
+  text-shadow: 0 5px 5px #db9c9c;
+  font-size: 60px;
+}
 /*# sourceMappingURL=style.css.map */
